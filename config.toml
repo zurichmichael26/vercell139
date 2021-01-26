@@ -1,0 +1,4 @@
+baseURL = "https://graphicscardbioner.vercel.app"
+languageCode = "en-us"
+title = "Graphics Card 2021"
+theme = "tale-hugo-master"
